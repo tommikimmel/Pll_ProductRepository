@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\accesodatos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\accesodatos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\accesodatos\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\accesodatos\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\accesodatos\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\accesodatos\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\dominio\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\dominio\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\accesodatos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\accesodatos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\pll_productrepository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\pll_productrepository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|c:\\users\\gusta\\source\\repos\\pll_productrepository\\pll_productrepository\\pll_productrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2872796-C761-40CE-AECC-C7AB2CA55D01}|Pll_ProductRepository\\Pll_ProductRepository.csproj|solutionrelative:pll_productrepository\\pll_productrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\AccesoDatos\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\DataHelper.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\AccesoDatos\\DataHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:31:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Program.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Program.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:28:58.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\AccesoDatos\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\ProductRepository.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\AccesoDatos\\ProductRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:53:37.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\AccesoDatos\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\IProductRepository.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\AccesoDatos\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:50:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParametroSP.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\ParametroSP.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\AccesoDatos\\ParametroSP.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\AccesoDatos\\ParametroSP.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\AccesoDatos\\ParametroSP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:37:16.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Dominio\\Product.cs",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\Dominio\\Product.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Dominio\\Product.cs",
+              "RelativeToolTip": "Pll_ProductRepository\\Dominio\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:33:50.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pll_ProductRepository",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "RelativeToolTip": "Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T18:10:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pll_ProductRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "RelativeDocumentMoniker": "Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\Pll_ProductRepository\\Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "RelativeToolTip": "Pll_ProductRepository\\Pll_ProductRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T17:31:29.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
